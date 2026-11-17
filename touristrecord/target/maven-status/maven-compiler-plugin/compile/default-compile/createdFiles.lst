@@ -1,0 +1,9 @@
+soa\service\JWTService.class
+soa\model\Users.class
+soa\ServletInitializer.class
+soa\controller\UserController.class
+soa\config\SecurityConfig.class
+soa\service\AuthService.class
+soa\service\UsersService.class
+soa\controller\AuthController.class
+soa\repo\UsersRepo.class

@@ -1,0 +1,5 @@
+soa\service\GatewayService$1.class
+soa\service\GatewayService.class
+soa\ServletInitializer.class
+soa\controller\GatewayController.class
+soa\GatewayApplication.class
